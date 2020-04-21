@@ -1,5 +1,5 @@
 # gchat
-Une messagerie instantanée générale avec inscription / connexion codée en HTML, CSS, ReactJS, et utilisant NodeJS, ExpressJS et MySQL comme côté serveur.
+Une messagerie instantanée générale avec inscription / connexion codée avec ReactJS, et utilisant NodeJS, ExpressJS et MySQL comme côté serveur.
 
 <img src="screenshots/gchat1.png" alt=""/>
 <img src="screenshots/gchat2.png" alt=""/>
